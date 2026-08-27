@@ -1,0 +1,10 @@
+{
+  "description": "Discover SUNABA coffee, a cozy café in Imabari offering popular sandwiches for breakfast and lunch, designed to attract and retain loyal customers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
